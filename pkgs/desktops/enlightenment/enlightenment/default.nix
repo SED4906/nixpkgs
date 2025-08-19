@@ -15,7 +15,7 @@
   pam,
   xkeyboard_config,
   udisks2,
-  waylandSupport ? false,
+  waylandSupport ? true,
   wayland-protocols,
   xwayland,
   bluetoothSupport ? true,
